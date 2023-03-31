@@ -1,2 +1,9 @@
-/app.py
+# ignore file
 /cred.py
+/app.py 
+
+# ignore folder with .txt only
+testing/*.txt  
+
+#ignore full folder
+New folder/
